@@ -2,7 +2,7 @@
 Big Machine Learning
 
 # Overview
-Some of the reviews left on Amazon are written by members of the paid Amazon Vine program.   This program allows manufacturers and publishers to receive reviews for their products.    The purpose of this analysis is to determine if there is any bias toward favorable reviews from Vine members.   SellBy stakeholderswant to understand how this process effects their buisness.   For the purpose of this analysis, the focus is on the reviews in the tools category.
+Some of the reviews left on Amazon are written by members of the paid Amazon Vine program.   This program allows manufacturers and publishers to receive reviews for their products.    The purpose of this analysis is to determine if there is any bias toward favorable reviews from Vine members.   SellBy stakeholders want to understand how this process effects their business.   For the purpose of this analysis, the focus is on the reviews in the tools category.
 
 To begin the analysis the data was first filtered.    The analysis only looked at items with over 20 reviews. 
 
@@ -14,7 +14,7 @@ The data was then filtered again to include only helpful reviews.    To be deter
 <img src="/images/helpful.png" width="900"> 
 [helpful.png](/images/helpful.png)
 
-The data was then analysized to review paid vs unpaid reviews.  Below is the summary of the categories:
+The data was then analyzed to review paid vs unpaid reviews.  Below is the summary of the categories:
 
 Unpaid Reviews:
 
@@ -39,6 +39,12 @@ Paid Reviews:
 
 
 # Summary: 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+Overall, there is a positive bias towards reviews that were paid through the Vine program.    In the analysis, there was a  10.86% difference between the positive paid reviews compared to the unpaid reviews.   
+
+The analysis for this category is not truly complete.   To fully understand if this is a bias, the same analysis should be run on all levels of ratings.   Then it could be determined if there is a bias is noted in the one, two, three and four star reviews.    
+
+Another concern is the low amount of paid reviews.   Being only 285 reviews versus 31,545 of non paid reviews is a wide variance.   It is highly recommended that the full analysis be done for several other item categories to ensure the trend continues across product fields.  
+
+With the above information, it can be clear whether an investment in Vine would be appropriate for Sellby.
 
 
