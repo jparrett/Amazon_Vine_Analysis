@@ -7,13 +7,11 @@ Some of the reviews left on Amazon are written by members of the paid Amazon Vin
 To begin the analysis the data was first filtered.    The analysis only looked at items with over 20 reviews. 
 
 <img src="/images/over20.png" width="900"> 
-[over20.png](/images/over20.png)
 
 
 The data was then filtered again to include only helpful reviews.    To be determined as helpful, the item's helpful votes divided by total votes had to be equal or greater than 50%.
 
 <img src="/images/helpful.png" width="900"> 
-[helpful.png](/images/helpful.png)
 
 
 The data was then analyzed to review paid vs unpaid reviews.  Below is the summary of the categories:
