@@ -6,8 +6,8 @@ Some of the reviews left on Amazon are written by members of the paid Amazon Vin
 
 To begin the analysis the data was first filtered.    The analysis only looked at items with over 20 reviews. 
 
-<img src="/images/over20.png" width="900"> [over20.png]
-(/images/over20.png)
+<img src="/images/over20.png" width="900"> 
+[over20.png](/images/over20.png)
 
 The data was then filtered again to include only helpful reviews.    To be determined as helpful, the item's helpful votes divided by total votes had to be equal or greater than 50%.
 
@@ -45,6 +45,6 @@ The analysis for this category is not truly complete.   To fully understand if t
 
 Another concern is the low amount of paid reviews.   Being only 285 reviews versus 31,545 of non paid reviews is a wide variance.   It is highly recommended that the full analysis be done for several other item categories to ensure the trend continues across product fields.  
 
-With the above information, it can be clear whether an investment in Vine would be appropriate for Sellby.
+After the additional research is gathered, it can be clear whether an investment in Vine would be appropriate for Sellby.
 
 
