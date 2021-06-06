@@ -18,11 +18,11 @@ The data was then analyzed to review paid vs unpaid reviews.  Below is the summa
 
 Unpaid Reviews:
 
-<img src="/images/unpaid_reviews.png" width="600"> [unpaid_reviews.png](/images/unpaid_reviews.png)
+<img src="/images/unpaid_reviews.png" width="400"> [unpaid_reviews.png](/images/unpaid_reviews.png)
 
 Paid Reviews:
 
-<img src="/images/Paid_reviews.png" width="600"> [Paid_reviews.png](/images/Paid_reviews.png)
+<img src="/images/Paid_reviews.png" width="400"> [Paid_reviews.png](/images/Paid_reviews.png)
 
 ## Summary Statistics
 - Total Reviews:
